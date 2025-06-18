@@ -2,6 +2,17 @@
 
 A Flutter-based mobile application implementing the Design of Experiments (DoE) approach to generate optimized concrete mix designs. This tool computes key mix parameters—water content, cement content, aggregate proportions—based on user inputs (target strength, slump, aggregate properties) using statistical formulas.
 
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="screenshots/0.png" alt="Manual Page" width="250"/>
+  <img src="screenshots/1.png" alt="Input Page" width="250"/>
+  <img src="screenshots/2.png" alt="Calculate Page" width="250"/>
+</div>
+
 ---
 
 ## 📱 Built With
@@ -129,17 +140,7 @@ final Ca    = brain.getCoarseAggregateContent();
 final ratio = brain.getCementRatio();
 ```
 
----
 
-## 📸 Screenshots
-
-<div align="center">
-  <img src="screenshots/0.png" alt="Manual Page" width="250"/>
-  <img src="screenshots/1.png" alt="Input Page" width="250"/>
-  <img src="screenshots/2.png" alt="Calculate Page" width="250"/>
-</div>
-
----
 
 ## 👨‍💻 Contributing
 
